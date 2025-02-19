@@ -1,3 +1,5 @@
 # apana-college
-<r>
+
 This is my first Git Repository
+<r>
+Author - Shradha (Apna College)
